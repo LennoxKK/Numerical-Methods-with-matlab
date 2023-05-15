@@ -1,4 +1,4 @@
 # Numerical-Methods-with-matlab
 Implementation of some numerical methods.
-## #Lagrange interpolation
+### Lagrange interpolation
 ### Newton Foward and Backward interpolation
